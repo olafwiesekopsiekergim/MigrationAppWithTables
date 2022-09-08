@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="nl-BE" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3231403536 - Field 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GroupName</source>
+          <target>GroupName</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DS Filter Value - Field GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3231403536 - Field 1704275497 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FilterName</source>
+          <target>FilterName</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DS Filter Value - Field FilterName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3231403536 - Field 1236718027 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do not sync</source>
+          <target>Do not sync</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DS Filter Value - Field Do not sync - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3231403536 - Field 2477294019 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target>Delete</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DS Filter Value - Field Delete - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3573469587 - Field 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GroupName</source>
+          <target>GroupName</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DS Filter Value Source - Field GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3573469587 - Field 3017471043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table No.</source>
+          <target>Table No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DS Filter Value Source - Field Table No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3573469587 - Field 3531868071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field No.</source>
+          <target>Field No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DS Filter Value Source - Field Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3573469587 - Field 2484981670 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Filter</source>
+          <target>Field Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DS Filter Value Source - Field Field Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3573469587 - Field 3808951907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Name</source>
+          <target>Table Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DS Filter Value Source - Field Table Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3573469587 - Field 3070320983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Name</source>
+          <target>Field Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DS Filter Value Source - Field Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2525870581 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target>Primary Key</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DS Connector Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2525870581 - Field 2209236704 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SourceApp</source>
+          <target>SourceApp</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DS Connector Setup - Field SourceApp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2525870581 - Field 1010303504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Scheduler Url</source>
+          <target>Scheduler Url</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DS Connector Setup - Field Scheduler Url - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2525870581 - Field 755444234 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Scheduler User</source>
+          <target>Scheduler User</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DS Connector Setup - Field Scheduler User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2525870581 - Field 159291364 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Scheduler Password</source>
+          <target>Scheduler Password</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DS Connector Setup - Field Scheduler Password - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1438313332 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target>Primary Key</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DS Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1438313332 - Field 1604075179 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Appointment on Delete</source>
+          <target>Check Appointment on Delete</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DS Setup - Field Check Appointment on Delete - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 300329568 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target>Primary Key</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DS Configuration Wizard - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 300329568 - Field 1604075179 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Appointment on Delete</source>
+          <target>Check Appointment on Delete</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DS Configuration Wizard - Field Check Appointment on Delete - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

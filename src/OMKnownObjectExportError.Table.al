@@ -1,0 +1,45 @@
+table 11102073 "OM - Known Object Export Error"
+{
+    Caption = 'Object to Ignore';
+    DataPerCompany = false;
+
+    fields
+    {
+        field(1; "Object Type"; Option)
+        {
+            BlankZero = true;
+            Caption = 'Object Type';
+            OptionCaption = ',Table,,Report,,Codeunit,XMLport,MenuSuite,Page,Query';
+            OptionMembers = ,"Table",,"Report",,"Codeunit","XMLport",MenuSuite,"Page","Query";
+        }
+        field(2; "Object No."; Integer)
+        {
+            BlankZero = true;
+            Caption = 'Object No.';
+            TableRelation = Object.ID WHERE (Type = FIELD ("Object Type"),
+                                             "Company Name" = FILTER (''));
+        }
+        field(3; "Object Name"; Text[30])
+        {
+            CalcFormula = Lookup (Object.Name WHERE (Type = FIELD ("Object Type"),
+                                                    "Company Name" = FILTER (''),
+                                                    ID = FIELD ("Object No.")));
+            Caption = 'Object Name';
+            Editable = false;
+            FieldClass = FlowField;
+        }
+    }
+
+    keys
+    {
+        key(Key1; "Object Type", "Object No.")
+        {
+            Clustered = true;
+        }
+    }
+
+    fieldgroups
+    {
+    }
+}
+

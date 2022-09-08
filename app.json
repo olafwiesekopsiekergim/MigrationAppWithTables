@@ -1,0 +1,21 @@
+{
+  "id": "f7cb2ed9-0456-4400-b50d-4e1c94cf513e",
+  "name": "bc14baseapptablesonly",
+  "publisher": "GIM",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "19.0.0.0",
+  "idRanges": [  ],
+  "contextSensitiveHelpUrl": "https://bc14baseapptablesonly.com/help/",
+  "showMyCode": true,
+  "runtime": "8.0",
+  "target": "OnPrem"
+}

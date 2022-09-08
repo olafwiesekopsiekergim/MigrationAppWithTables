@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="sv-SE" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3334395719 - Field 4148012217 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set Permissions</source>
+          <target>Sätt behörigheter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CMNM E-Mail Attachment - Field Full Quality Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3334395719 - Field 2743201183 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Copy</source>
+          <target>Kopia</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CMNM E-Mail Attachment - Field Assemble Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 494240700 - Field 4148012217 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set Permissions</source>
+          <target>Sätt behörigheter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CMNM Batch Attachment - Field Full Quality Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 494240700 - Field 2743201183 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Copy</source>
+          <target>Kopia</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CMNM Batch Attachment - Field Assemble Document - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
